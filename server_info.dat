@@ -1,0 +1,3 @@
+# Calculator Server Configuration File
+SERVER_ADDRESS=localhost
+SERVER_PORT=1234
