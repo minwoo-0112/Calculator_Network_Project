@@ -55,7 +55,7 @@ java calculator.CalculatorClient
 
 Hwang Minwoo (황민우)
 
-## 📅 프로젝트 정보
+## 프로젝트 정보
 
 - **과목**: 컴퓨터 네트워크 및 실습
 - **과제**: HW#1 Calculator in the Cloud
