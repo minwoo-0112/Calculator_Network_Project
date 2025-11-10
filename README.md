@@ -42,7 +42,7 @@ java calculator.CalculatorClient
 
 ## 상세 문서
 
-자세한 내용은 [Wiki](https://github.com/YourUsername/Calculator-Network-Project/wiki)를 참고하세요.
+자세한 내용은 [Wiki](https://github.com/minwoo-0112/Calculator_Network_Project/wiki)를 참고하세요.
 
 ## 기술 스택
 
