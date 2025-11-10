@@ -5,7 +5,7 @@ Network Calculator using Java Socket (HW1)
 
 네트워크 프로그래밍 과제 - Java 소켓을 이용한 계산기
 
-## 📋 프로젝트 소개
+## 프로젝트 소개
 
 TCP/IP 소켓 통신을 사용하여 클라이언트-서버 구조의 계산기를 구현했습니다.
 
@@ -15,7 +15,7 @@ TCP/IP 소켓 통신을 사용하여 클라이언트-서버 구조의 계산기�
 - HTTP 스타일 프로토콜
 - 체계적인 예외 처리
 
-## 🏗️ 아키텍처
+## 아키텍처
 
 \`\`\`
 Client ←─TCP/IP─→ Server (ThreadPool)
@@ -24,7 +24,7 @@ Client ←─TCP/IP─→ Server (ThreadPool)
                     └─ ClientHandler 3
 \`\`\`
 
-## 🚀 실행 방법
+## 실행 방법
 
 ### 서버 실행
 \`\`\`bash
@@ -40,23 +40,18 @@ javac calculator/CalculatorClient.java
 java calculator.CalculatorClient
 \`\`\`
 
-## 📖 상세 문서
+## 상세 문서
 
 자세한 내용은 [Wiki](https://github.com/YourUsername/Calculator-Network-Project/wiki)를 참고하세요.
 
-## 📸 스크린샷
-
-![정상 동작](docs/screenshots/screenshot1.png)
-![에러 처리](docs/screenshots/screenshot2.png)
-
-## 🛠️ 기술 스택
+## 기술 스택
 
 - **Language**: Java
 - **Network**: TCP/IP Socket
 - **Concurrency**: ExecutorService, ThreadPool
 - **Protocol**: Custom (HTTP-style)
 
-## 👨‍💻 Author
+## Author
 
 Hwang Minwoo (황민우)
 
